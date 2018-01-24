@@ -1,0 +1,11 @@
+aarch64-xilinx-linux
+plnx_aarch64-.*-linux.*
+
+aarch64-.*-linux.*
+
+noarch-.*-linux.*
+
+any-.*-linux.*
+
+all-.*-linux.*
+
